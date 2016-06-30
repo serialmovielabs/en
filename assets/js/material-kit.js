@@ -1,9 +1,9 @@
 var transparent = true;
 
 var transparentDemo = true;
-var fixedTop = false;
+var fixedTop = true;
 
-var navbar_initialized = false;
+var navbar_initialized = true;
 
 $(document).ready(function(){
 
